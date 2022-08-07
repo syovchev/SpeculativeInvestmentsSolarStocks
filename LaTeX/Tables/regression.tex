@@ -1,0 +1,29 @@
+\begin{table}[!htbp] \centering 
+    \caption{Regression results of Fama-French 5-Factor Model} 
+    \label{ff_5_factors_results} 
+    \begin{threeparttable}
+        \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}rrllrl} 
+            \\[-1.8ex] 
+            \hline
+            \hline
+            \\[-1.8ex] 
+            Variable & Estimate & & Std. Error & t value & Pr($> |$t$|$) \\ 
+            \\[-1.8ex] 
+            \hline
+            \\[-1.8ex] 
+            (Intercept) & $0.312$ & & $0.231$ & $1.352$ & $0.178$ \\ 
+            Mkt.RF & $1.217$  & *** & $0.095$ & $12.783$ & $0.000$ \\ 
+            SMB    & $0.816$  & *** & $0.184$ & $4.444$  & $0.000$ \\ 
+            HML    & $-0.320$ & *   & $0.158$ & $-2.032$ & $0.043$ \\ 
+            RMW    & $-0.740$ & **  & $0.247$ & $-2.993$ & $0.003$ \\ 
+            CMA    & $-0.735$ & *   & $0.308$ & $-2.390$ & $0.018$ \\ 
+            \\[-1.8ex] 
+            \hline
+            \\[-1.8ex] 
+        \end{tabular*} 
+        \begin{tablenotes} 
+            \item Adjusted R$^{2}$:  0.5445; F-statistic: 63.16$^{***}$
+            \item \textit{Note:} $^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01
+        \end{tablenotes} 
+    \end{threeparttable}
+\end{table} 
