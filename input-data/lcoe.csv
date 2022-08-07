@@ -1,0 +1,45 @@
+Technology,Year,LCOE
+Solar PV,2010,0.38056
+Solar PV,2011,0.28926
+Solar PV,2012,0.21746
+Solar PV,2013,0.16812
+Solar PV,2014,0.15429
+Solar PV,2015,0.11731
+Solar PV,2016,0.10383
+Solar PV,2017,0.08343
+Solar PV,2018,0.07043
+Solar PV,2019,0.06094
+Solar PV,2020,0.05667
+Onshore wind,2010,0.08942
+Onshore wind,2011,0.08275
+Onshore wind,2012,0.0817
+Onshore wind,2013,0.07879
+Onshore wind,2014,0.07129
+Onshore wind,2015,0.06334
+Onshore wind,2016,0.05998
+Onshore wind,2017,0.05713
+Onshore wind,2018,0.05055
+Onshore wind,2019,0.04513
+Onshore wind,2020,0.03929
+Offshore wind,2010,0.16162
+Offshore wind,2011,0.17089
+Offshore wind,2012,0.14695
+Offshore wind,2013,0.13902
+Offshore wind,2014,0.16534
+Offshore wind,2015,0.14223
+Offshore wind,2016,0.11796
+Offshore wind,2017,0.11355
+Offshore wind,2018,0.11053
+Offshore wind,2019,0.09297
+Offshore wind,2020,0.08378
+Hydro,2010,0.03754
+Hydro,2011,0.03533
+Hydro,2012,0.03675
+Hydro,2013,0.04109
+Hydro,2014,0.04141
+Hydro,2015,0.0359
+Hydro,2016,0.04795
+Hydro,2017,0.04896
+Hydro,2018,0.03877
+Hydro,2019,0.04027
+Hydro,2020,0.04444

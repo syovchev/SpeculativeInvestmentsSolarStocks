@@ -1,0 +1,12 @@
+Source: IEA Renewables Information https://www.iea.org/data-and-statistics/data-product/renewables-information
+Documentation: https://iea.blob.core.windows.net/assets/dac193ba-44c6-40ab-8877-9ad4cac28b5b/DocumentationforRenewablesInformation.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,Hydro,Wind,Solar PV,Units
+1990,71656,32,,GWh
+1995,72596,529,1,GWh
+2000,74462,1683,2,GWh
+2005,108122,6211,3,GWh
+2010,124921,19657,126,GWh
+2015,136495,35075,10420,GWh
+2020,167029,66148,61344,GWh
