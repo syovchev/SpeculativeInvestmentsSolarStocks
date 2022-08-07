@@ -31,7 +31,7 @@ occurrence of multiple-bubble episodes during the sample period.
 
 # Figures
 
-![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/LCOE.png?raw=true]
+<img src="https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/LCOE.png?raw=true" />
 <p>Figure 1: LCOE of selected renewable technologies</p>
 
 ![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/Solar%20energy%20stocks%20vs%20the%20broader%20market.png?raw=true]
