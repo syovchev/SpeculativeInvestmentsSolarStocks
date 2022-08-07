@@ -31,17 +31,27 @@ occurrence of multiple-bubble episodes during the sample period.
 
 # Figures
 
+<figure>
 <img src="https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/LCOE.png?raw=true" />
-<p>Figure 1: LCOE of selected renewable technologies</p>
+<figcaption>Figure 1: LCOE of selected renewable technologies</figcaption>
+</figure>
 
-![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/Solar%20energy%20stocks%20vs%20the%20broader%20market.png?raw=true]
-<p>Figure 2: Daily returns of selected ETFs </p>
+<figure>
+<img src="https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/Solar%20energy%20stocks%20vs%20the%20broader%20market.png?raw=true" />
+<figcaption>Figure 2: Daily returns of selected ETFs </figcaption>
+</figure>
 
-![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/TAN%20prices.png?raw=true]
-<p>Figure 3: TAN Daily prices </p>
+<figure>
+<img src="https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/TAN%20prices.png?raw=true" />
+<figcaption>Figure 3: TAN Daily prices </figcaption>
+</figure>
 
-![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/sadf_prediciton.png?raw=true]
-<p>Figure 4: SADF Results </p>
+<figure>
+<img src="https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/sadf_prediciton.png?raw=true" />
+<figcaption>Figure 4: SADF Results </figcaption>
+</figure>
 
-![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/gsadf_prediciton.png?raw=true]
-<p>Figure 5: GSADF Results </p>
+<figure>
+<img src="https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/gsadf_prediciton.png?raw=true" />
+<figcaption>Figure 5: GSADF Results </figcaption>
+</figure>
