@@ -28,3 +28,20 @@ to identify explosive price behavior.
 The 5-Factor Fama-French model proves that solar energy companies carry signifi-
 cant idiosyncratic risk. The SADF and GSADF provide strong evidence to suggest the
 occurrence of multiple-bubble episodes during the sample period.
+
+# Figures
+
+![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/LCOE.png?raw=true]
+<p>Figure 1: LCOE of selected renewable technologies</p>
+
+![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/Solar%20energy%20stocks%20vs%20the%20broader%20market.png?raw=true]
+<p>Figure 2: Daily returns of selected ETFs </p>
+
+![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/TAN%20prices.png?raw=true]
+<p>Figure 3: TAN Daily prices </p>
+
+![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/sadf_prediciton.png?raw=true]
+<p>Figure 4: SADF Results </p>
+
+![https://github.com/syovchev/SpeculativeInvestmentsSolarStocks/blob/main/LaTeX/Figures/gsadf_prediciton.png?raw=true]
+<p>Figure 5: GSADF Results </p>
